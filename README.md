@@ -19,6 +19,6 @@ Jupyter Notebook
 
 Pandas, NumPy, Matplotlib, Seaborn (for notebooks)
 
-SQL database (e.g., MySQL, PostgreSQL) for executing SQL queries
+SQL database (e.g., MySQL, PymySQL) for executing SQL queries
 
 
